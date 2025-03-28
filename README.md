@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+it is an website used to store documents,images,audio,video,pdfs.
+it is much more like google drive clone
 
 ## Getting Started
 
